@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Title Menu.unity
+    guid: 9a3359bc8d40c044995cc934884ef1fd
+  - enabled: 1
+    path: Assets/Scenes/House of the Red Death.unity
+    guid: f8736fd09819ebd4e9511631b999b933
   m_configObjects: {}
